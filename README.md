@@ -5,7 +5,7 @@
 
 As of mine writing this, it is April 4th, 2026. My blood pressure is well-controlled through diet and exercise and ranges in the low 100s Systolic over 60-70 Dialstolic, my [A1C](https://diabetes.org/about-diabetes/a1c), an extremely important measure of diabetic health, was 5.8 in February (Which, is *slightly* above what is considered normal), and I have lost 61 lbs Through diet, exercise, and medication. and yes, that includes the use of an [GLP-1](https://en.wikipedia.org/wiki/GLP-1_receptor_agonist). My body was a desecrated, dilapidated temple. And to be fair, it *still* is. But I'm making strides.
 
-Are you a technology professional in a mainly dedentary job that sucks your soul out of your arse on a daily basis, leaving you a husk searching for the path of least resistance to provide your body with nutrition and caffiene necessary to survive your burnout-filled days? Awesome, I'm just like you!(tm). I ate and drank whatever the fuck I wanted, and I have paid the price dearly. 
+Are you a technology professional in a mainly sedentary job that sucks your soul out of your arse on a daily basis, leaving you a husk searching for the path of least resistance to provide your body with nutrition and caffiene necessary to survive your burnout-filled days? Awesome, I'm just like you!(tm). I ate and drank whatever the fuck I wanted, and I have paid the price dearly. 
 
 *"Why am I telling you all this?"*
 
