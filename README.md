@@ -5,7 +5,7 @@ Hey Hey Cybers, welcome to this repo. Within you will find general health and fi
 
 I am **NOT** a doctor. I am **NOT** A nutritionist. I am **NOT** a psychologist. I am **NOT** your personal trainer. I am **NOT** an influencer. I'm a 39 year old cybersecurity *"professional"*. With a myriad of health problems I'm trying to overcome. I am trying to share recipes and general nutrition advice that has worked for me thus far. All that being said:
 
-__FOR THE LOVE OF ALL THAT IS GOOD IN YOUR LIFE, PLEASE CONSULT YOUR DOCTOR, YOUR NUTRITIONIST, YOUR LIFECOACH, YOUR LAWYER, YOUR STOCKBROKER, THE ADEPTUS MECHANICUS, SKELETOR, OR WHOMEVER YOU CONSULT WITH BEFORE MAKING SIGNIFICANT DIETARY and PHYSICAL ACTIVITY CHANGES RECOMMENDED TO YOU BY SOME RANDOM ASSHOLE ON THE INTERNET. YOUR DIETARY AND NUTRITIONAL NEEDS AND MINE ARE ALMOST CERTAINLY DIFFERENT. PLEASE BE SAFE.__
+__FOR THE LOVE OF ALL THAT IS GOOD IN YOUR LIFE, PLEASE CONSULT YOUR DOCTOR, YOUR NUTRITIONIST, YOUR LIFECOACH, YOUR LAWYER, YOUR STOCKBROKER, THE ADEPTUS MECHANICUS, SKELETOR, OR WHOMEVER YOU CONSULT WITH BEFORE MAKING SIGNIFICANT DIETARY AND PHYSICAL ACTIVITY CHANGES RECOMMENDED TO YOU BY SOME RANDOM ASSHOLE ON THE INTERNET. YOUR DIETARY, PHYSICAL ACTIVITY, AND NUTRITIONAL NEEDS AND MINE ARE ALMOST CERTAINLY DIFFERENT. PLEASE BE SAFE.__
 
 ## About Me
  Hi, I'm da_667. I work in tech, I'm 39 years old, I have high blood pressure (now controlled), Diabetes (Now also controlled), Chronic Kidney Disease (Stage 3, yup, controlled as well), and to top it all off, I'm morbidly obese (and unfucking *that* as well). I was 425lbs in December of 2025. 
