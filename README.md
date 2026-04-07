@@ -1,7 +1,6 @@
 # 667s-Healthy-Habits-And-Eating
 
-Hey Hey Cybers, welcome to this repo. Within you will find general health and fitness advice that has served me well in my fitness journey so far. Most of that information will be contained in the `README.md` below. Individual Recipes will be made available in the `Recipes` folder, in individual markdown files. I have 
-
+Hey Hey Cybers, welcome to this repo. Within you will find general health and fitness advice that has served me well in my fitness journey so far. Most of that information will be contained in the `README.md` below. Individual Recipes will be made available in the `Recipes` folder, in individual markdown files.
 ## Disclaimers
 
 I am **NOT** a doctor. I am **NOT** A nutritionist. I am **NOT** a psychologist. I am **NOT** your personal trainer. I am **NOT** an influencer. I'm a 39 year old cybersecurity *"professional"*. With a myriad of health problems I'm trying to overcome. I am trying to share recipes and general nutrition advice that has worked for me thus far. All that being said:
