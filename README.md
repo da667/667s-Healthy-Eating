@@ -1,9 +1,10 @@
 # 667s-Healthy-Habits-And-Eating
 
-Hey Hey Cybers, welcome to this repo. Within you will find general health and fitness advice that has served me well in my fitness journey so far. Most of that information will be contained in the `README.md` below. Individual Recipes will be made available in the `Recipes` folder, in individual markdown files.
+Hey Hey Cybers, welcome to this repo. Within, you will find general health and fitness advice that has served me well in my fitness journey so far. Most of that information will be contained in the `README.md` below. Feel free to skip all of the shit below, with the exception of the disclaimer, if all you want is the recipes :) Individual Recipes will be made available in the `Recipes` folder, in individual markdown files.
+
 ## Disclaimers
 
-I am **NOT** a doctor. I am **NOT** A nutritionist. I am **NOT** a psychologist. I am **NOT** your personal trainer. I am **NOT** an influencer. I'm a 39 year old cybersecurity *"professional"*. With a myriad of health problems I'm trying to overcome. I am trying to share recipes and general nutrition advice that has worked for me thus far. All that being said:
+I am **NOT** a doctor. I am **NOT** A nutritionist. I am **NOT** a psychologist. I am **NOT** your physical therapist. I am **NOT** your personal trainer. I am **NOT** an influencer. I'm a 39 year old cybersecurity *"professional"*. With a myriad of health problems I'm trying to overcome. I am trying to share recipes and general nutrition advice that has worked for me thus far. All that being said:
 
 __FOR THE LOVE OF ALL THAT IS GOOD IN YOUR LIFE, PLEASE CONSULT YOUR DOCTOR, YOUR NUTRITIONIST, YOUR LIFECOACH, YOUR LAWYER, YOUR STOCKBROKER, THE ADEPTUS MECHANICUS, SKELETOR, OR WHOMEVER YOU CONSULT WITH BEFORE MAKING SIGNIFICANT DIETARY AND PHYSICAL ACTIVITY CHANGES RECOMMENDED TO YOU BY SOME RANDOM ASSHOLE ON THE INTERNET. YOUR DIETARY, PHYSICAL ACTIVITY, AND NUTRITIONAL NEEDS AND MINE ARE ALMOST CERTAINLY DIFFERENT. PLEASE BE SAFE.__
 
