@@ -8,6 +8,14 @@ I am **NOT** a doctor. I am **NOT** A nutritionist. I am **NOT** a psychologist.
 
 __FOR THE LOVE OF ALL THAT IS GOOD IN YOUR LIFE, PLEASE CONSULT YOUR DOCTOR, YOUR NUTRITIONIST, YOUR LIFECOACH, YOUR LAWYER, YOUR STOCKBROKER, THE ADEPTUS MECHANICUS, SKELETOR, OR WHOMEVER YOU CONSULT WITH BEFORE MAKING SIGNIFICANT DIETARY AND PHYSICAL ACTIVITY CHANGES RECOMMENDED TO YOU BY SOME RANDOM ASSHOLE ON THE INTERNET. YOUR DIETARY, PHYSICAL ACTIVITY, AND NUTRITIONAL NEEDS AND MINE ARE ALMOST CERTAINLY DIFFERENT. PLEASE BE SAFE.__
 
+## Contributing/CoC
+
+Feel free to submit your own healthy living advice that has worked for you if you're so inclined, and we'll see about getting it included. If you'd like to submit your own recipes, there is a markdown template in the Recipes directory named `Template_Recipe.md`, courtesy of `@jackryder@infosec.exchange`.
+
+### Code of Conduct
+
+I'll make this as simple as possibly can. Be kind, be courteous, be helpful. **Don't be a dick. Please.**
+
 ## About Me
  Hi, I'm da_667. I work in tech, I'm 39 years old, I have high blood pressure (now controlled), Diabetes (Now also controlled), Chronic Kidney Disease (Stage 3, yup, controlled as well), and to top it all off, I'm morbidly obese (and unfucking *that* as well). I was 425lbs in December of 2025. 
 
