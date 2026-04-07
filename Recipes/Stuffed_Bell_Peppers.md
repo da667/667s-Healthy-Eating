@@ -73,34 +73,38 @@ Please be aware, that, this meal will feature a lot of tomato-based products (di
 
 ### Nutrition (per serving)
 Since this recipe can have a lot of wide variation, there are a wide variety of caloric or nutritional changes that can occur, based on the ingredients used. I will provide you with one variation that I made at home, and will need to leave it as an exercise to the reader for determining the nutritional values as necessary.
+
 **General Nutrition Warning: The nutrition calculations are for RAW ingredients. This is simply me, looking up the ingredients and adding the macros together and dividing by the number of servings.**
 
-Bell peppers x 6 5mg sodium/ea, 37cal/ea = 30mg, 222 cal, 1,248mg potassium, 18g sugar, 12g fiber, 18g net carbs, 6g protein
-riced cauliflower = 15 cal 15mg sodium per serving x4.5 = 68mg sodium, 68 cal, 495mg potassium, 9g fiber, 13.5g carbs, 4.5g protein
-ground turkey 170 cal, 90mg sodium x 4 = 360mg sodium, 680 cal, 1,120mg potassium, 32g fat, 88g protein
-no salt added tomato sauce 25 cal, 15mg sodium x 14 (2 cans)= 350 cal, 210mg sodium, 2380mg potassium, 42g sugar, 28g fiber, 70g carbs
-no salt added diced tomatoes 25 cal, 15 mg sodium x 7 (2 cans) =  175 cal, 105mg sodium, 1,120mg potassium, 21g sugar, 7g fiber, 35g carbs, 7g protein
-low sodium v8 45 cal, 140mg sodium x 3 = 135 cal, 420mg sodium, 1700mg potassium, 14g sugar, 2g fiber, 18g carbs, 4g protein
-unsalted vegetable stock x 1 cup = 20 cal, 75mg sodium, 204mg potassium, 4g sugar, 5g carbs
-at least 2 1/4th tsp of salt, pepper and garlic mix 180mg sodium x 2 = 360mg sodium
+Bell peppers x 6 5mg sodium/ea, 37cal/ea = 30mg, 222 cal, 1,248mg potassium, 18g sugar, 12g fiber, 18g net carbs, 6g protein <br>
+riced cauliflower = 15 cal 15mg sodium per serving x4.5 = 68mg sodium, 68 cal, 495mg potassium, 9g fiber, 13.5g carbs, 4.5g protein <br>
+ground turkey 170 cal, 90mg sodium x 4 = 360mg sodium, 680 cal, 1,120mg potassium, 32g fat, 88g protein <br>
+no salt added tomato sauce 25 cal, 15mg sodium x 14 (2 cans)= 350 cal, 210mg sodium, 2380mg potassium, 42g sugar, 28g fiber, 70g carbs <br>
+no salt added diced tomatoes 25 cal, 15 mg sodium x 7 (2 cans) =  175 cal, 105mg sodium, 1,120mg potassium, 21g sugar, 7g fiber, 35g carbs, 7g protein <br>
+low sodium v8 45 cal, 140mg sodium x 3 = 135 cal, 420mg sodium, 1700mg potassium, 14g sugar, 2g fiber, 18g carbs, 4g protein <br>
+unsalted vegetable stock x 1 cup = 20 cal, 75mg sodium, 204mg potassium, 4g sugar, 5g carbs <br>
+at least 2 1/4th tsp of salt, pepper and garlic mix 180mg sodium x 2 = 360mg sodium <br>
 other, no salt spices: 0mg sodium
 
-Total Calories: 1,650 cal
-Total Sodium: 1,168mg sodium
-Total Potassium: 8,267mg potassium
-Total Fat: 32g
-Total Carbs: 159.5
-Total Fiber: 58g
-Total Protein: 109.5
+
+Total Calories: 1,650 cal <br>
+Total Sodium: 1,168mg sodium <br>
+Total Potassium: 8,267mg potassium <br>
+Total Fat: 32g <br>
+Total Carbs: 159.5 <br>
+Total Fiber: 58g <br>
+Total Protein: 109.5 <br>
+
 
 Divided by 6 (1 stuffed pepper, with 1/6th measure sauce): 
-275 cal
-195mg sodium
-1,377mg potassium
-5g fat
-27g carbs
-10g fiber
-18g protein
+
+275 cal <br>
+195mg sodium <br>
+1,377mg potassium <br>
+5g fat <br>
+27g carbs <br>
+10g fiber <br> 
+18g protein <br>
 
 
 
