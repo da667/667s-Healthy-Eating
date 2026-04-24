@@ -28,7 +28,7 @@ You lose the ability to flavor your beans, but you gain valuable time. Using the
 - 3 fresh green bell peppers, diced (4mg sodium/ea, 208mg potassium each, 25 calories each x 3 = 12mg , 75 cal, 624mg potassium) OR
    - 1 bag of frozen diced green bell peppers (1 serving: 25 cal each, 5mg sodium, 100mg potassium, 1 bag: 88 cal, 18mg sodium, 350mg potassium) OR 
    - 1 bag of frozen diced multi-colored peppers with onion (1 serving: 20 cal, 5mg sodium, 87mg potassium, 3.5 servings (half bag): 70cal, 18mg sodium, 304.5mg potassium)
-   - 1 can of no salt added sweet corn (1 serving:60 cal, 10mg sodium, 130mg potassium 1 can(3.5 servings): 210 cal, 35mg sodium, 455mg potassium) OR
+- 1 can of no salt added sweet corn (1 serving:60 cal, 10mg sodium, 130mg potassium 1 can(3.5 servings): 210 cal, 35mg sodium, 455mg potassium) OR
    - 1 bag of frozen sweet corn (1 serving: 80cal, 0 sodium, 183mg ptoassium 1 full bag (4 servings): 320 cal, 0 sodium, 732mg potassium)
 - [Cowboy Chili mix](https://costcofdb.com/product/urban-accents-cowboy-chili-seasoning-11-oz): Costco sells a large container of "cowboy chili mix" that is, surprisingly low sodium for a chili mix, and is really good. (1/4th tsp serving, 5 cal per serving, 60 mg sodium). If you can find it, I highly recommend it.
 - This recipe benefits greatly from [chorizo seasoning](https://spicesinc.com/seasoning-blends/mexican-chorizo-seasoning) mix as well 
