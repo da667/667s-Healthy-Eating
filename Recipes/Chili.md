@@ -50,10 +50,10 @@ After soaking, boil beans for 1-2 hours, or until sufficiently tender
 
 
 ### Nutrition (per serving)
-assuming 6 "portions", using frozen bell peppers, frozen corn, 
-Total calories per pot: 2,490 calories Divided by 6: 415 calories per serving
-Total sodium per pot: 1,863mg sodium Divided by 6:  311mg sodium per serving
-Total potassium per pot: 11,602mg potassium Dividied by 6: 1,933mg potassium per serving
+assuming 6 "portions", using frozen bell peppers, frozen corn:<br> 
+Total calories per pot: 2,490 calories Divided by 6: 415 calories per serving<br>
+Total sodium per pot: 1,863mg sodium Divided by 6:  311mg sodium per serving<br>
+Total potassium per pot: 11,602mg potassium Dividied by 6: 1,933mg potassium per serving<br>
 
 ### Notes & Tips
 Everything about this recipe is adjustable. Additionally it stores and reheats extremely well.
