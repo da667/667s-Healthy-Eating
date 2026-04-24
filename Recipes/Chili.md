@@ -43,7 +43,7 @@ Optional, but recommended: consider adding spices and/or additional vegetables t
 
 ### Instructions
 1. **Step 1:** Empty all ingredients **except the meat** into cooking vessel of choice: Slow cooker, Dutch oven, Pot/Pan, Oven-Safe baking pan/pot, etc. Note: If using frozen corn/peppers
-2. **Step 2:** Cook ground turkey, ground beef, ground pork, **or** meatless alternative. Season with recommend spices in the Ingredient list above. I recommend splitting any of your ingredients with sodium **half in the sauce** and **half in the meat, but only after the meat has been drained of fat and grease to avoid wasting it.**
+2. **Step 2:** Cook ground turkey, ground beef, ground pork, **or** meatless alternative in separate frying pan, and drain grease once meat is browned. Season with recommend spices in the Ingredient list above. I recommend splitting any of your ingredients with sodium **half in the sauce** and **half in the meat, but only after the meat has been drained of fat and grease to avoid wasting it.**
 3. **Step 3:** add cooked meat to cooking vessel of choice. If cooking on stove, cook over **low** flame ~45 minutes. If cooking in oven, Bake at 375 degrees Fahrenheit, ~1 hour. If slow cooking, slow cook ingredients on "low" setting at least 4 hours, time permitting. In each instance, stir and check every 20-30 minutes if possible to avoid sticking/charring. 
 4. **Finish & serve:** Serve in a bowl. Goes incredibly well with shredded cheese, crushed no salt added tortilla chips, and/or greek yogurt (sour cream substitute) or actual sour cream.
 
