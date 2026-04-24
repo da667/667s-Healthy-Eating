@@ -59,6 +59,8 @@ Everything about this recipe is adjustable. Additionally it stores and reheats e
 - Add vegetables if you want (carrots, celery, etc.)
 - remove vegetables if you want (e.g. use less beans if you are very potassium sensitive)
 - Replace the v8 with two cups of vegetable stock if you'd like to reduce sodium even further
+- Add more and spicier things to the recipe (spicier pepper, finish with a few drops of hot sauce of choice, etc.)
+- Add less spicy things (drop the cowboy chili, drop the chorizo mix, or drop the cayenne pepper)
 - Replace the meat with meatless alteratives, or just don't bother with it all, if you want a completely vegetarian solution.
 - Seasoning salt can be substituted with a tsp of low sodium better than bouillion chicken or beef. That'll set you back about 510mg sodium, which is slightly less than the seasoning salt, and salt/pepper/garlic combo seasoning.
 - This meal, by the nature of its ingredients is extremely high in potassium. a single serving alone will net you 3/4ths of the daily recommended value (for men, this is ~3300 mg per day), so be very careful, if you are potassium sensitive. Consider using less beans if necessary, as the beans are the highest potassium item in the recipe. Using two cans of no salt added canned kidney beans is 3010mg potassium, as opposed to 10 servings of (3/4ths bag) of beans, which will be 4200mg of potassium
