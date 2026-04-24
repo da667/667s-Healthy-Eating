@@ -11,22 +11,27 @@ You lose the ability to flavor your beans, but you gain valuable time. Using the
 - **Health Warning:** This meal is very high in potassium. If you have to manage your potassium, eat this meal very sparingly, or limit your portions!
 
 ### Ingredients
-ground turkey 170 cal, 90mg sodium, 280mg potassium x 4 = 360mg sodium, 680 cal, 1,120mg potassium, 32g fat, 88g protein
-no salt added tomato sauce 25 cal, 15mg sodium x 14 (2 cans)= 350 cal, 210mg sodium, 2380mg potassium, 42g sugar, 28g fiber, 70g carbs
-no salt added diced tomatoes 25 cal, 15 mg sodium x 7 (2 cans) = 175 cal, 105mg sodium, 1,120mg potassium, 21g sugar, 7g fiber, 35g carbs, 7g protein small red beans, 1 serving: 80cal, 5 mg sodium, 420mg potassium
-1 bag of "small red beans" (per serving: 80cal, 5mg sodium, 420 mg potassium 3/4ths bag (~10 servings: 800 cal, 50mg sodium, 4200mg potassium) OR
-2 cans no salt added kidney beans (per serving: 1/2 cup - 120 cal, 10mg sodium, 430mg potassium  two cans (7 servings): 840cal, 70mg sodium, 3010mg potassium
-low sodium v8 45 cal, 140mg sodium, 850mg potassium x 16oz = 90 cal, 280mg sodium 1700mg potassium
-at least 2 1/4th tsp of [Kinder's salt, pepper and garlic mix](https://www.walmart.com/ip/Kinder-s-The-Blend-Seasoning-with-Salt-Pepper-and-Garlic-6-25-oz/887790491?classType=VARIANT&athbdg=L1600&from=/search) 200mg sodium x 2 = 400 mg sodium
-1/4th tsp seasoning salt: 380mg sodium
-cumin powder, cayenne powder, garlic powder, chili powder, onion powder, chorizo mix: 0 mg sodium
+- ground turkey 170 cal, 90mg sodium, 280mg potassium x 4 = 360mg sodium, 680 cal, 1,120mg potassium, 32g fat, 88g protein
+- no salt added tomato sauce 25 cal, 15mg sodium x 14 (2 cans)= 350 cal, 210mg sodium, 2380mg potassium, 42g sugar, 28g fiber, 70g carbs
+- no salt added diced tomatoes 25 cal, 15 mg sodium x 7 (2 cans) = 175 cal, 105mg sodium, 1,120mg potassium, 21g sugar, 7g fiber, 35g carbs, 7g protein small red beans, 1 serving: 80cal, 5 mg sodium, 420mg potassium
+- 1 bag of "small red beans" (per serving: 80cal, 5mg sodium, 420 mg potassium 3/4ths bag (~10 servings: 800 cal, 50mg sodium, 4200mg potassium) OR
+  - 2 cans no salt added kidney beans (per serving: 1/2 cup - 120 cal, 10mg sodium, 430mg potassium  two cans (7 servings): 840cal, 70mg sodium, 3010mg potassium
+- low sodium v8 45 cal, 140mg sodium, 850mg potassium x 16oz = 90 cal, 280mg sodium 1700mg potassium
+- at least 2 1/4th tsp of [Kinder's salt, pepper and garlic mix](https://www.walmart.com/ip/Kinder-s-The-Blend-Seasoning-with-Salt-Pepper-and-Garlic-6-25-oz/887790491?classType=VARIANT&athbdg=L1600&from=/search) 200mg sodium x 2 = 400 mg sodium
+- 1/4th tsp seasoning salt: 380mg sodium
+- cumin powder
+- cayenne powder
+- garlic powder
+- chili powder
+- onion powder
 #### Optional Ingredients
-3 fresh green bell peppers, diced (4mg sodium/ea, 208mg potassium each, 25 calories each x 3 = 12mg , 75 cal, 624mg potassium) OR
-1 bag of frozen diced green bell peppers (1 serving: 25 cal each, 5mg sodium, 100mg potassium, 1 bag: 88 cal, 18mg sodium, 350mg potassium) OR 
-1 bag of frozen diced multi-colored peppers with onion (1 serving: 20 cal, 5mg sodium, 87mg potassium, 3.5 servings (half bag): 70cal, 18mg sodium, 304.5mg potassium)
-1 can of no salt added sweet corn (1 serving:60 cal, 10mg sodium, 130mg potassium 1 can(3.5 servings): 210 cal, 35mg sodium, 455mg potassium) OR
-1 bag of frozen sweet corn (1 serving: 80cal, 0 sodium, 183mg ptoassium 1 full bag (4 servings): 320 cal, 0 sodium, 732mg potassium)
-[Cowboy Chili mix](https://costcofdb.com/product/urban-accents-cowboy-chili-seasoning-11-oz): Costco sells a large container of "cowboy chili mix" that is, surprisingly low sodium for a chili mix, and is really good. (1/4th tsp serving, 5 cal per serving, 60 mg sodium). If you can find it, I highly recommend it.
+- 3 fresh green bell peppers, diced (4mg sodium/ea, 208mg potassium each, 25 calories each x 3 = 12mg , 75 cal, 624mg potassium) OR
+   - 1 bag of frozen diced green bell peppers (1 serving: 25 cal each, 5mg sodium, 100mg potassium, 1 bag: 88 cal, 18mg sodium, 350mg potassium) OR 
+- 1 bag of frozen diced multi-colored peppers with onion (1 serving: 20 cal, 5mg sodium, 87mg potassium, 3.5 servings (half bag): 70cal, 18mg sodium, 304.5mg potassium)
+   - 1 can of no salt added sweet corn (1 serving:60 cal, 10mg sodium, 130mg potassium 1 can(3.5 servings): 210 cal, 35mg sodium, 455mg potassium) OR
+   - 1 bag of frozen sweet corn (1 serving: 80cal, 0 sodium, 183mg ptoassium 1 full bag (4 servings): 320 cal, 0 sodium, 732mg potassium)
+- [Cowboy Chili mix](https://costcofdb.com/product/urban-accents-cowboy-chili-seasoning-11-oz): Costco sells a large container of "cowboy chili mix" that is, surprisingly low sodium for a chili mix, and is really good. (1/4th tsp serving, 5 cal per serving, 60 mg sodium). If you can find it, I highly recommend it.
+- This recipe benefits greatly from [chorizo seasoning](https://spicesinc.com/seasoning-blends/mexican-chorizo-seasoning) mix as well 
 
 ### Preparing dry red kidney beans for use with your chili
 If you opt to use dry kidney beans, it is highly recommend that you soak them overnight, and cook them **before** adding them to your chili. Many will tell you that they can just be cooked for a longer period along with your chili, but **as always, they are wrong.**
