@@ -36,10 +36,11 @@ You lose the ability to flavor your beans, but you gain valuable time. Using the
 ### Preparing dry red kidney beans for use with your chili
 If you opt to use dry kidney beans, it is highly recommend that you soak them overnight, and cook them **before** adding them to your chili. Many will tell you that they can just be cooked for a longer period along with your chili, but **as always, they are wrong.**
 
-Empty the kidney beans into a sufficiently large bowl or pot. Add water, and ensure all kidney beans are immersed. Soak for at least 6-8 hours.
+Empty the kidney beans into a sufficiently large bowl or pot.<br> 
+Add water, and ensure all kidney beans are immersed. Soak for at least 6-8 hours. <br>
 After soaking, boil beans for 1-2 hours, or until sufficiently tender
-Optional, but recommended: drain after 3-4 hours of soaking, and refill with water. Drain water before boiling beans, and replace with fresh water.
-Optional, but recommended: consider adding spices and/or additional vegetables to beans while they are boiling, as desired: garlic, cumin, chili powder, cayenne pepper, bay leaves, onion powder, celery, carrots, onions
+- Optional, but recommended: drain after 3-4 hours of soaking, and refill with water. Drain water before boiling beans, and replace with fresh water.
+- Optional, but recommended: consider adding spices and/or additional vegetables to beans while they are boiling, as desired: garlic, cumin, chili powder, cayenne pepper, bay leaves, onion powder, celery, carrots, onions
 
 ### Instructions
 1. **Step 1:** Empty all ingredients **except the meat** into cooking vessel of choice: Slow cooker, Dutch oven, Pot/Pan, Oven-Safe baking pan/pot, etc. Note: If using frozen corn/peppers
